@@ -29,6 +29,6 @@ I'm a recent Bachelor's graduate with a passion for web and mobile development. 
 - Project 3: [Project Name](link) - Description
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bishal-shrestha-a716a2211/)
-- GitHub: [Your GitHub Profile](https://github.com/bishalweb)
-- Portfolio: [Your Portfolio](https://66436fbd0b2516314575945f--dazzling-clafoutis-586d1e.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/bishal-shrestha-a716a2211/)
+- [GitHub](https://github.com/bishalweb)
+- [Portfolio](https://66436fbd0b2516314575945f--dazzling-clafoutis-586d1e.netlify.app/)
