@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bishal Shrestha</h1>
-<h3 align="center">I'm a recent Bachelor's graduate with a passion for web and mobile development. I have expertise in HTML, CSS, and JavaScript, along with proficiency in Flutter, Dart, and Java. I also have basic knowledge of C, Python, Git, and MySQL.</h3>
+# Hi there! 👋 I'm [Your Name]
+
+## About Me
+I'm a recent Bachelor's graduate with a passion for web and mobile development. I have expertise in HTML, CSS, and JavaScript, along with proficiency in Flutter, Dart, and Java. I also have basic knowledge of C, Python, Git, and MySQL.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalweb&label=Profile%20views&color=0e75b6&style=flat" alt="bishalweb" /> </p>
 
