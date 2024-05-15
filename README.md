@@ -1,11 +1,9 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Bishal Shrestha
 
 ## About Me
 I'm a recent Bachelor's graduate with a passion for web and mobile development. I have expertise in HTML, CSS, and JavaScript, along with proficiency in Flutter, Dart, and Java. I also have basic knowledge of C, Python, Git, and MySQL.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalweb&label=Profile%20views&color=0e75b6&style=flat" alt="bishalweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalweb" alt="bishalweb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://66436fbd0b2516314575945f--dazzling-clafoutis-586d1e.netlify.app/](https://66436fbd0b2516314575945f--dazzling-clafoutis-586d1e.netlify.app/)
 
@@ -13,9 +11,9 @@ I'm a recent Bachelor's graduate with a passion for web and mobile development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bishal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal shrestha" height="30" width="40" /></a>
-<a href="https://fb.com/bishal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal shrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/bishal.shrestha.4767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishal.shrestha.4767" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bishal-shrestha-a716a2211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal shrestha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bishal.shrestha.4767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal shrestha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bishal.shrestha.4767/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishal.shrestha.4767" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
