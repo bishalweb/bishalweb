@@ -5,7 +5,7 @@ I'm a recent Bachelor's graduate with a passion for web and mobile development. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalweb&label=Profile%20views&color=0e75b6&style=flat" alt="bishalweb" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://main--myportfolio4767.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-tawny-ten-76.vercel.app/)
 
 - 📫 How to reach me **sthbishal90@gmail.com**
 
